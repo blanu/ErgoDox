@@ -1,1 +1,4 @@
-Disclaimer: No guarantee or warranty implied.  Use these drawings at your own risk.  
+ATX Version
+
+* Converted from DXF to CDR
+* Changed all line widths to Hairline
