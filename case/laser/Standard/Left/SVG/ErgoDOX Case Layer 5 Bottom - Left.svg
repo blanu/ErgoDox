@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X7 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="8.5in" height="11in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 8500 11000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:blue;stroke-width:3}
+    .str0 {stroke:red;stroke-width:3;stroke-linejoin:bevel}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_618825136">
+   <path class="fil0 str0" d="M7823 4496c0,-32 -26,-59 -59,-59 -33,0 -59,27 -59,59 0,33 26,59 59,59 33,0 59,-26 59,-59z"/>
+   <path class="fil0 str0" d="M3497 5291c0,-32 -27,-59 -59,-59 -33,0 -59,27 -59,59 0,33 26,59 59,59 32,0 59,-26 59,-59z"/>
+   <path class="fil0 str0" d="M331 5157c0,-33 -26,-59 -59,-59 -33,0 -59,26 -59,59 0,33 26,59 59,59 33,0 59,-26 59,-59z"/>
+   <line class="fil0 str0" x1="6367" y1="292" x2="6367" y2= "3398" />
+   <line class="fil0 str0" x1="25" y1="5191" x2="25" y2= "292" />
+   <line class="fil0 str0" x1="301" y1="16" x2="6092" y2= "16" />
+   <line class="fil0 str0" x1="6527" y1="3647" x2="7842" y2= "4261" />
+   <line class="fil0 str0" x1="7975" y1="4627" x2="6953" y2= "6819" />
+   <line class="fil0 str0" x1="6587" y1="6952" x2="3454" y2= "5492" />
+   <path class="fil0 str0" d="M331 263c0,-33 -26,-59 -59,-59 -33,0 -59,26 -59,59 0,32 26,59 59,59 33,0 59,-27 59,-59z"/>
+   <path class="fil0 str0" d="M4074 191c0,-32 -26,-59 -59,-59 -33,0 -59,27 -59,59 0,33 26,59 59,59 33,0 59,-26 59,-59z"/>
+   <line class="fil0 str0" x1="3338" y1="5466" x2="301" y2= "5466" />
+   <path class="fil0 str0" d="M6180 263c0,-33 -27,-59 -59,-59 -33,0 -59,26 -59,59 0,32 26,59 59,59 32,0 59,-27 59,-59z"/>
+   <path class="fil0 str0" d="M301 16c-73,0 -143,29 -195,81 -52,52 -81,122 -81,195"/>
+   <path class="fil0 str0" d="M6367 292c0,-73 -29,-143 -80,-195 -52,-52 -122,-81 -195,-81"/>
+   <path class="fil0 str0" d="M25 5191c0,73 29,143 81,194 52,52 122,81 195,81"/>
+   <path class="fil0 str0" d="M6587 6952c138,65 302,5 366,-133"/>
+   <path class="fil0 str0" d="M7975 4627c31,-66 34,-142 9,-211 -25,-69 -76,-124 -142,-155"/>
+   <path class="fil0 str0" d="M6367 3398c0,107 62,204 160,249"/>
+   <path class="fil0 str0" d="M3454 5492c-36,-17 -76,-26 -116,-26"/>
+   <path class="fil0 str0" d="M6776 6741c0,-32 -26,-59 -59,-59 -32,0 -59,27 -59,59 0,33 27,59 59,59 33,0 59,-26 59,-59z"/>
+   <path class="fil0 str0" d="M5392 1064c0,-33 -27,-59 -59,-59 -33,0 -59,26 -59,59 0,33 26,59 59,59 32,0 59,-26 59,-59z"/>
+   <path class="fil0 str0" d="M1061 1064c0,-33 -26,-59 -59,-59 -32,0 -59,26 -59,59 0,33 27,59 59,59 33,0 59,-26 59,-59z"/>
+   <path class="fil0 str0" d="M6573 5788c0,-32 -26,-59 -59,-59 -33,0 -59,27 -59,59 0,33 26,59 59,59 33,0 59,-26 59,-59z"/>
+  </g>
+ </g>
+ <g id="_0">
+  <metadata id="CorelCorpID_1Corel-Layer"/>
+  <rect class="fil0 str1" x="10" y="-1" width="8000" height="7000"/>
+ </g>
+</svg>
